@@ -63,6 +63,34 @@ Finally, use Playwright to create powerful and reliable automated tests for web 
 - Sprint 4 - TBD
 
 
-# ADD YOUR PROJECT LINKS BELOW THIS 
+# ADD YOUR PROJECT LINKS BELOW THIS
+
 -[Mywebclass.org Website]( https://rishabhpatel8299.github.io/mywebclass-simulation/)
+
 -[Agile Development](https://github.com/rishabhpatel8299/mywebclass-simulation/wiki/Agile-Development:-Writing-Epics-and-User-Stories-for-Effective-Project-Management%22)
+
+-[Enhancing Product Development through DevOps](https://github.com/rishabhpatel8299/mywebclass-simulation/wiki/Enhancing-Product-Development-through-DevOps-and-SRE-Implementation)
+
+-[Ensuring GDPR Compliance](https://github.com/rishabhpatel8299/mywebclass-simulation/wiki/Ensuring-GDPR-Compliance:-Best-Practices-and-Tools-for-Websites)
+
+-[Implementing SEO for Better Visibility](https://github.com/rishabhpatel8299/mywebclass-simulation/wiki/Implementing-SEO-for-Better-Visibility)
+
+-[Initiative](https://github.com/rishabhpatel8299/mywebclass-simulation/wiki/Initiative)
+
+-[Internationalization](https://github.com/rishabhpatel8299/mywebclass-simulation/wiki/Internationalization)
+
+-[Legal Compliance in Web Analytics](https://github.com/rishabhpatel8299/mywebclass-simulation/wiki/Legal-Compliance-in-Web-Analytics:-How-to-Use-Google-Analytics-Responsibly)
+
+-[Playwright Test: Installation and Basic Usage Guide](https://github.com/rishabhpatel8299/mywebclass-simulation/wiki/Playwright-Test:-Installation-and-Basic-Usage-Guide)
+
+-[Project deployment](https://github.com/rishabhpatel8299/mywebclass-simulation/wiki/Project-deployment)
+
+-[Project Installation](https://github.com/rishabhpatel8299/mywebclass-simulation/wiki/Project-Installation)
+
+-[SEO Optimization for Improved Website Performance](https://github.com/rishabhpatel8299/mywebclass-simulation/wiki/SEO-Optimization-for-Improved-Website-Performance)
+
+-[Sprint 1 Retrospective Report](https://github.com/rishabhpatel8299/mywebclass-simulation/wiki/Sprint-1-Retrospective-Report)
+
+-[Themes](https://github.com/rishabhpatel8299/mywebclass-simulation/wiki/Themes)
+
+-[Web accessibility](https://github.com/rishabhpatel8299/mywebclass-simulation/wiki/Web-accessibility)
